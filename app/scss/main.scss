@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans');
+
+$actionred: rgb(235, 110, 110);
+$offwhite: rgb(244, 244, 244);
+
+$color-backgrounds: $offwhite;
+$font-main: 'Montserrat', Helvetica, sans-serif;
+$font-hightlight: 'Open Sans', Helvetica, sans-serif;
+
+
+html {
+  color: $actionred;
+  background: $color-backgrounds;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 3% 1fr 3%;
+  grid-template-rows: auto;
+  grid-template-areas: 
+  ". container ." 
+  ;
+  background: $color-backgrounds!important;
+  grid-area: container;
+}
+
+.container {
+  background: $color-backgrounds;
+  grid-area: container;
+  font-family: $font-main;
+}

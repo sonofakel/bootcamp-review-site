@@ -1,0 +1,21 @@
+{
+  "name": "boot-ang",
+  "description": "Bootcamp review site",
+  "main": "index.js",
+  "authors": [
+    "Charlie Kelson <charlie.m.kelson@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angucomplete-alt": "^3.0.0",
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}

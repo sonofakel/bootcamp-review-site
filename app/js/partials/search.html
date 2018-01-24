@@ -1,0 +1,32 @@
+<div id="search-container">
+  <label>Begin your new career as a software engineer today!</label>
+  <angucomplete-alt id="ex1"
+              placeholder="Enter bootcamp or city"
+              pause="100"
+              selected-object="selectedBootcamp"
+              local-data="bootcamps"
+              search-fields="name,location"
+              description-field="location"
+              title-field="name"
+              minlength="1"
+              input-class="form-control form-control-small search-input"
+              override-suggestions="true"
+              auto-match="true"
+              ></angucomplete-alt>
+
+              <a class="btn btn-info" ng-href="#!/details/{{goToBootcamp(selectedBootcamp, bootcamps)}}">Find</a>            
+</div>
+
+<h3>Highest Rated Bootcamps</h3>
+<div class="highest-rated-container">
+  
+  <div ng-repeat="item in bootcamps | orderBy: 'rating'| limitTo: 3" >
+    {{item.name}} - {{item.stars}} stars
+  </div>
+    
+    
+
+</div>
+
+
+

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Epicodus",
+    "shortname": "epicodus",
+    "location": "Seattle, WA",
+    "stars": 5,
+    "tagline": "A vocational school for aspiring programmers",
+    "description": "Epicodus's mission is to help people learn the skills they need to get great jobs. For us, “great jobs” means jobs in growing industries that pay well and provide rewarding work. Beyond the particular skills needed to get these jobs, we aim to help our students become confident self-teachers who can adapt to changing job markets, and great communicators who will work well in teams. We focus on serving people who, by birth or circumstance, don't have easy access to learning the skills they need to get these great jobs."
+  },
+  {
+    "name": "Coding Dojo",
+    "shortname": "coding-dojo",
+    "location": "Seattle, WA",
+    "stars": 4,
+    "tagline": "Compellingly coordinate inexpensive channels",
+    "description": "Authoritatively pontificate goal-oriented opportunities with multifunctional potentialities. Compellingly coordinate inexpensive channels via premier leadership. Authoritatively transition high-payoff supply chains through premier initiatives. Authoritatively reconceptualize customized technology with team driven alignments. Seamlessly facilitate distributed partnerships via sustainable systems. Phosfluorescently predominate go forward networks."
+  },
+  {
+    "name": "Hack Reactor",
+    "shortname": "hack-reactor",
+    "location": "Seattle, WA",
+    "stars": 2,
+    "tagline": "Holisticly embrace cost effective experiences",
+    "description": "Authoritatively promote tactical platforms before cutting-edge process improvements. Dramatically extend holistic e-services whereas high-quality partnerships. Competently orchestrate global products with process-centric communities. Holisticly embrace cost effective experiences without performance based process improvements. Phosfluorescently utilize client-centric opportunities whereas dynamic synergy."
+  },
+  {
+    "name": "App Academy",
+    "shortname": "app-academy",
+    "location": "Seattle, WA",
+    "stars": 3,
+    "tagline": "A vocational school for aspiring programmers",
+    "description": "Globally disintermediate world-class core competencies with goal-oriented potentialities. Objectively customize process-centric relationships for resource sucking applications. Authoritatively benchmark visionary information via clicks-and-mortar solutions. Objectively drive synergistic collaboration and idea-sharing after diverse schemas. Proactively whiteboard equity invested methodologies."
+  },
+  {
+    "name": "Bloc",
+    "shortname": "bloc",
+    "location": "Boston, MA",
+    "stars": 1,
+    "tagline": "A vocational school for aspiring programmers",
+    "description": "Conveniently transition enabled intellectual capital rather than principle-centered content. Continually maximize goal-oriented markets vis-a-vis empowered web services. Energistically facilitate quality value rather than cross-platform ideas. Collaboratively evisculate interactive web services for interoperable action items. Professionally scale value-added catalysts for change with dynamic human capital."
+  }
+]

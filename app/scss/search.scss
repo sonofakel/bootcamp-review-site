@@ -1,0 +1,23 @@
+@import 'main.scss';
+
+a.find-button{
+  text-align: center;
+}
+
+#search-container {
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.search-input {
+  margin: 3% 0;
+}
+
+.highest-rated-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  margin: 2rem 0;
+}
+
